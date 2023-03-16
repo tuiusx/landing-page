@@ -19,8 +19,9 @@
 
 <p align="center">
   <img alt="LANDING-PAGE Horror" src="./assets/horror.png" width="400px">
-  <img alt="LANDING-PAGE Travel" src="./assets/travel.png" width="400px">
   <img alt="LANDING-PAGE Eating" src="./assets/eating.png" width="400px">
+  <img alt="LANDING-PAGE Travel" src="./assets/travel.png" width="400px">
+  
 </p>
 
 ## 🚀 Tecnologias
